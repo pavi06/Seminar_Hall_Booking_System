@@ -1,6 +1,5 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:seminar_hall_booking/menupage.dart';
 import 'package:seminar_hall_booking/startpage.dart';
 
 void main() {
